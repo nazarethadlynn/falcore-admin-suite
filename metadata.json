@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Falcore Corporate Data Admin Suite",
+  "description": "Interactive data administrator panel to evaluate and analyze incoming website lead submissions, manage custom email templates in a persistent JSON database, and compose AI-guided template customer replies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
